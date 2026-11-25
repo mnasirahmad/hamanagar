@@ -1,0 +1,8 @@
+{
+  "name": "HAMA NAGAR – Housing Society Management & Accounting ERP",
+  "description": "Housing society property inventory, customer management, installment & cash sales, double-entry accounting, ledgers, vouchers, and financial reports. Powered by Prime Soft Vehari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
